@@ -1,2 +1,1 @@
-# name
-https://mouryachandan.github.io/name/
+https://github.com/mouryachandan/name.git
